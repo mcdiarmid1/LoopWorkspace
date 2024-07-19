@@ -255,6 +255,7 @@ jobs:
           future_carbs_4h \
           no_auth \
           lnl_icon \
+          now_line \
           2002
 
           # the final customization listed above CANNOT have a continuation character "\"
