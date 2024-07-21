@@ -256,6 +256,7 @@ jobs:
           no_auth \
           lnl_icon \
           now_line \
+          watch_title \
           2002
 
           # the final customization listed above CANNOT have a continuation character "\"
