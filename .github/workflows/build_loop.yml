@@ -293,13 +293,13 @@ jobs:
           future_carbs_4h \
           no_auth \
           now_line \
-          lnl_icon \
           watch_title \
           2hlollipop \
           meal_days \
           profiles \
           basal_lock \
-          live_activity
+          live_activity \
+          negative_insulin
 
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line
